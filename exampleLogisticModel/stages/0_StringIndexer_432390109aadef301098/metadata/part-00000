@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1493662845694,"sparkVersion":"2.0.0","uid":"StringIndexer_432390109aadef301098","paramMap":{"handleInvalid":"error","outputCol":"billingpinIdx","inputCol":"billingpin"}}

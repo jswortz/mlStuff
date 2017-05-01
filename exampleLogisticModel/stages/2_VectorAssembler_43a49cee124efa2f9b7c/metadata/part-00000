@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1493662846337,"sparkVersion":"2.0.0","uid":"VectorAssembler_43a49cee124efa2f9b7c","paramMap":{"outputCol":"features","inputCols":["billingpinIdx","outageflagIdx","currentbalance","previouspaymentamount"]}}
